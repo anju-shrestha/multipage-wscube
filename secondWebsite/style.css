@@ -1,0 +1,406 @@
+body{
+    background-color:black;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.clear{
+    clear: both;
+}
+header{
+    
+    background-color: #00253f;
+    width: 1400px;
+    margin: auto;
+}
+h3{
+    float: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    font-weight: normal;
+    font-size: 18px;
+}
+.container1{
+    background-image: url(img/header\(bg\).png);
+    width: 1400px;
+    margin: auto;
+    height: 400px;
+  
+}
+.logobox{
+    display: inline;
+}
+
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 100px;
+}
+.listbox{
+    display: inline;
+    float: right;
+}
+.headerul{
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.headerlist{
+    display: inline;
+     margin-right: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    line-height: .5;
+}
+.btn{
+
+    margin:25px 600px;
+    width: 170px;
+    height: 70px;
+    background: rgb(236, 241, 245);
+    border-right: 5px solid rgb(5, 4, 5);
+    border-bottom:  5px solid rgb(5, 4, 5);
+    border-radius: 10px;
+    font-size: 20px;
+    color: #00253f;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif
+} 
+.btn:hover{
+background: rgb(97, 228, 238);
+border: 5px solid white;
+}
+button{
+    color: black;
+    width: 100px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 6px;}
+button:hover{
+    color: rgb(245, 74, 7);
+}
+.container2{
+    margin-top:0px ;
+    width: 1400px;
+    margin: auto;
+   
+}
+.aboutusimgdiv{
+    background-color: white;
+    float: left;
+    width: 600px;
+    height: 600px;
+  
+}
+.aboutusimg{
+    padding: 50px;
+    width: 500px;
+}
+.aboutusmessagediv{
+    float: right;
+    width: 800px;
+    height: 600px; ;
+    background-color: white;
+    
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: underline;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.aboutuspara{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    line-height: 2;
+    margin-left: 20px;
+    width: 700px;
+}
+.container3{
+    width: 1400px;
+    margin: auto;
+    background-color: white;
+    height: 1500px
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+.leftbox{
+    float: left;
+
+  width: 300px;
+    margin-top: 150px;
+margin-left: 140px;
+}
+.midbox{
+    float: left;
+ 
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 140px;
+}
+.rightbox{
+ 
+    float: left;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 140px;
+}
+.imgbox{
+    float: left;
+  
+
+}
+.icon{
+    padding: auto;
+
+}
+
+h4{
+    float: left;
+    margin-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+.container4{
+    width: 1400px;
+    margin: auto;
+}
+.domainbox{
+    float: left;
+    width: 700px;
+background: url(img/Domain_regs\(bg\).png) center;
+    height: 407px;
+background-size: cover;
+
+}
+.viewbox{
+    background-color: grey;
+    width: 700px;
+    float: right;
+   
+}
+.con4head{
+    color: white;
+    text-decoration: none;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+hr{
+    width: 150px;
+    margin-left: 100px;
+}
+.para{
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+.footer{
+    background-color: rgb(41, 39, 39);
+    width: 1400px;
+    height: 500px;
+    margin: auto;
+}
+h5{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px ;
+    margin-left: 50px;
+}
+.footer1{
+    float:left ;
+    width: 350px;
+}
+
+.footer2{
+    float: left;
+    width: 350px;
+}
+.footer3{
+    float: left;
+    width: 350px;
+}
+.footer4{
+    float: right;
+    width: 350px;
+}
+.footerlist{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:20px ;
+    list-style: none;
+    line-height: 1.5;
+    padding: 20px;
+}
+.send{
+    margin-left: 60px;
+    height: 30px;
+}
+.btnbox{
+    margin-left: 60px;
+  
+width:59px ;
+height: 41px;
+padding: 0px;
+border: none;
+
+}
+.aboutcontainer1{
+    background-image: url(img/header\(bg\).png);
+    width: 1400px;
+    margin: auto;
+    height: 150px;
+  
+}
+.aboutcontainer2{
+    margin: auto;
+    width: 1400px;
+}
+.aboutcontainer3{
+    background-color: rgb(250, 244, 248);
+    width: 1400px;
+    margin:auto;
+    padding-bottom: 100px;
+}
+.wscubejpg{
+    width: 1400px;
+}
+.Portfoliodiv{
+    width: 1400px;
+    background-color: white;
+    margin: auto;
+    padding-top: 50px;
+}
+.porth2{
+    font-size: 50px;
+   padding-bottom: 20px;
+}
+.portimg{
+    margin-left: 80px;
+    margin-bottom: 100px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 10px solid black; 
+    border-bottom: 10px solid black; 
+    border-radius:20px ;
+}
+.enquirydiv{
+    width: 1400px;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+}
+.enquiryh2{
+    margin: auto;
+    padding-top: 25px;
+}
+.formbox{
+    width: 600px;
+    height: 800px;
+    margin-left: 400px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    border-top: 3px solid rgb(230, 225, 225);
+    border-left: 3px solid  rgb(230, 225, 225);
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-radius: 20px;
+}
+.row{
+   
+    margin-top:30px;
+}
+.leveldiv{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    width: 200px;
+    padding-left: 20px;
+
+
+}
+.textarea{
+    width: 250px ;
+    height: 40px;
+    font-size: 20px;
+    float: left;
+}
+textarea{
+    width: 300px;
+    height: 80px;
+}
+.contactdiv{
+    background-color: white;
+    width: 1400px;
+    margin: auto;
+}
+.contacth1{
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+}
+.leftimgbox{
+    float: left;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+}
+.rightimgbox{
+    float: left;
+    width: 700px;
+    height: 500px;
+    margin-top: 100px;
+}
+.contactimg{
+ padding-left: 300px;
+}
+.contactp{
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.pinpara{
+    margin-top: 30px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.map{
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
